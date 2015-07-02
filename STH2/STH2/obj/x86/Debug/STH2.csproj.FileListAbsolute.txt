@@ -1,0 +1,20 @@
+D:\My Programs\STH\STH2\STH2\bin\Debug\STH2.exe
+D:\My Programs\STH\STH2\STH2\bin\Debug\STH2.pdb
+D:\My Programs\STH\STH2\STH2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\My Programs\STH\STH2\STH2\obj\x86\Debug\STH2.Form1.resources
+D:\My Programs\STH\STH2\STH2\obj\x86\Debug\STH2.Form2.resources
+D:\My Programs\STH\STH2\STH2\obj\x86\Debug\STH2.Properties.Resources.resources
+D:\My Programs\STH\STH2\STH2\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\My Programs\STH\STH2\STH2\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\My Programs\STH\STH2\STH2\obj\x86\Debug\STH2.exe
+D:\My Programs\STH\STH2\STH2\obj\x86\Debug\STH2.pdb
+F:\My Programs\C#\QQ Autosend\STH2\STH2\obj\x86\Debug\STH2.exe
+F:\My Programs\C#\QQ Autosend\STH2\STH2\obj\x86\Debug\STH2.pdb
+F:\My Programs\C#\QQ Autosend\STH2\STH2\bin\Debug\STH2.exe
+F:\My Programs\C#\QQ Autosend\STH2\STH2\bin\Debug\STH2.pdb
+F:\My Programs\C#\QQ Autosend\STH2\STH2\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\My Programs\C#\QQ Autosend\STH2\STH2\obj\x86\Debug\STH2.Form1.resources
+F:\My Programs\C#\QQ Autosend\STH2\STH2\obj\x86\Debug\STH2.Form2.resources
+F:\My Programs\C#\QQ Autosend\STH2\STH2\obj\x86\Debug\STH2.Properties.Resources.resources
+F:\My Programs\C#\QQ Autosend\STH2\STH2\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\My Programs\C#\QQ Autosend\STH2\STH2\obj\x86\Debug\GenerateResource.write.1.tlog
